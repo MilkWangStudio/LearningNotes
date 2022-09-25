@@ -1,7 +1,7 @@
 # LearningNotes
 ## Java
 ### [Java基础](./Java/Java基础.md)
-### JVM
+### [JVM](./Java/JVM.md)
 ### Concurrent包
 ### 集合
 ### 字节码
@@ -13,8 +13,11 @@
 ### SpringCloud
 ### Dubbo
 ## 中间件
+### [Redis](./Middleware/Redis.md)
 ## 算法
 ## 数据结构
-## 项目分析
+## 系统架构
+### [架构基础](./Architecture/架构基础.md)
+### 4+1架构图
 ## 前端
 ## 运维
