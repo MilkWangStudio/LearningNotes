@@ -14,7 +14,7 @@
 ### Dubbo
 ## 中间件
 ### [Redis](./Middleware/Redis.md)
-### [Rabbitmq](./Middleware/Rabbitmq.md)
+### [RabbitMQ](./Middleware/RabbitMQ.md)
 ## 算法
 ## 数据结构
 ## 系统架构
