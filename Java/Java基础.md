@@ -22,3 +22,23 @@ Java中有8种基本数据类型，括号中为引用类型。
 
 值类型存储在栈中。  
 应用类型存储在堆中。  
+
+
+## ArrayList实现
+### modcount字段
+```java
+package com.milkwang.cupid.domain.po;
+
+import java.util.ArrayList;
+
+public class Demo {
+    public static void main(String[] args) {
+        ArrayList<Integer> list = new ArrayList<>();
+        list.add(1);
+        list.add(2);
+        for (Integer i : list) {
+            list.add(10);
+        }
+    }
+}
+```

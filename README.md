@@ -15,6 +15,7 @@
 ## 中间件
 ### [Redis](./Middleware/Redis.md)
 ### [RabbitMQ](./Middleware/RabbitMQ.md)
+### [Kafka](./Middleware/Kafka.md)
 ## 算法
 ## 数据结构
 ## 系统架构
